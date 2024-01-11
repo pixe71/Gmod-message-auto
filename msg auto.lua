@@ -1,4 +1,4 @@
---Addon développer par Pixe
+--Addon developed by Pixe
 
 --Upcoming updates
 

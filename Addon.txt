@@ -1,8 +1,8 @@
-Addon créer par Pixe
+Addon created by Pixe
 
 
 Version ---> 1.0
 
-Mise à jour à venir ---> Interface graphique avec popup pour rendre le tout plus esthéthique.
+Upcoming update ---> Graphical interface with popup to make everything more aesthetic.
 
-Les modifications sont autorisées, les reposts eux le sont pas . Que l'addon soit modifier, ou identiques, nous ne vous autorisons pas à les repost.
+Modifications are allowed, reposts are not. Whether the addon is modified, or identical, we do not authorize you to repost them.
