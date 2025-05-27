@@ -1,5 +1,5 @@
 # 📦 Addon - Automatic OOC Messages  
-
+[![Lua](https://img.shields.io/badge/Lua-Gmod-blue)](https://www.lua.org/manual/5.4/)
 ---
 
 ## 📜 Description
